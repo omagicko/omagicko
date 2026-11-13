@@ -166,8 +166,8 @@ The following section records the courses and training programs I have undertake
 |---|---|---|
 | Solyd | OSINT | Open-source intelligence methodologies and research |
 | Solyd | Pentest & Information Security — Afonso Espíndola | Information security and penetration testing |
-| Técnicas de Invasão — Penegui | Hardware Hacking | Hardware security studies |
-| — | Android Hacking | Android and mobile security studies |
+| Penegui | Hardware Hacking | Hardware security studies |
+| | Android Hacking | Android and mobile security studies |
 | HackerSec | Cybersecurity training | Information security studies |
 | HackOne | Cybersecurity training | Security learning and practice |
 | Gabriel Pato | Do Bug ao Bounty | Vulnerability research and Bug Bounty |
